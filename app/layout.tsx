@@ -1,14 +1,18 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Instrument_Serif, Manrope } from "next/font/google";
 import "./globals.css";
+import Header from "@/components/Header";
+import Sidebar from "@/components/Sidebar";
+import BottomNavigation from "@/components/BottomNavigation";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const instrumentSerif = Instrument_Serif({
+  variable: "--font-instrument-serif",
   subsets: ["latin"],
+  weight: "400",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const manrope = Manrope({
+  variable: "--font-manrope",
   subsets: ["latin"],
 });
 
@@ -25,9 +29,18 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${instrumentSerif.variable} ${manrope.variable} antialiased`}
       >
-        {children}
+        <div className="flex items-start">
+          <Sidebar />
+          <BottomNavigation />
+          <div className="flex-1">
+            <Header />
+            <main className="py-6 px-4 lg:px-16 w-full bg-[#F5F5F535] pb-16 lg:pb-6">
+              {children}
+            </main>
+          </div>
+        </div>
       </body>
     </html>
   );

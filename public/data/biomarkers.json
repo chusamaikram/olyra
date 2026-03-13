@@ -1,0 +1,545 @@
+[
+    {
+        "id": "wbc-1",
+        "title": "White Blood Cells (WBC)",
+        "unit": "k/uL",
+        "status": "normal",
+        "category": "Blood health",
+        "data": [
+            {"date": "Aug 2025", "value": 11.2},
+            {"date": "Sep 2025", "value": 10.4},
+            {"date": "Oct 2025", "value": 9.1},
+            {"date": "Nov 2025", "value": 8.0},
+            {"date": "Dec 2025", "value": 7.0},
+            {"date": "Jan 2026", "value": 6.2},
+            {"date": "Feb 2026", "value": 5.2}
+        ],
+        "ranges": {"min": 3, "optimalMin": 4.5, "optimalMax": 7.5, "normalMin": 4, "normalMax": 10, "max": 12},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "White blood cells (leukocytes) are immune cells that circulate in blood and patrol tissues. They include several lineages such as neutrophils, lymphocytes, monocytes, eosinophils, and basophils, each with specialized roles. WBCs arise from hematopoietic stem cells in the bone marrow and are regulated by cytokines and growth factors. The WBC count reflects immune cell production, distribution, and turnover biology."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "The white blood cell count is important because it helps detect infection, inflammation, and bone marrow or immune disorders. High WBC can occur with bacterial infection, stress responses, or certain hematologic diseases, while low WBC can increase infection risk. It provides a broad snapshot of immune system activity. Trends over time can be more informative than a single value."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "Optimize white blood cell counts by addressing the underlying driver: infection control, inflammation management, and avoiding smoking. Support immune resilience with adequate sleep, balanced nutrition (including sufficient protein and micronutrients), and regular moderate exercise. If WBC is low, avoid unnecessary exposure to infections and review medications that can suppress marrow with a clinician. Persistent abnormalities require medical evaluation rather than supplements alone."
+            }
+        ]
+    },
+    {
+        "id": "ldl-1",
+        "title": "LDL Cholesterol",
+        "unit": "mg/dL",
+        "status": "high",
+        "category": "Heart",
+        "data": [
+            {"date": "Aug 2025", "value": 168},
+            {"date": "Sep 2025", "value": 155},
+            {"date": "Oct 2025", "value": 140},
+            {"date": "Nov 2025", "value": 128},
+            {"date": "Dec 2025", "value": 135},
+            {"date": "Jan 2026", "value": 138},
+            {"date": "Feb 2026", "value": 142}
+        ],
+        "ranges": {"min": 50, "optimalMin": 70, "optimalMax": 100, "normalMin": 70, "normalMax": 160, "max": 200},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "LDL cholesterol (low-density lipoprotein) is a particle that transports cholesterol and fats through the bloodstream to cells. It's produced by the liver and regulated by diet, genetics, and metabolic factors. LDL particles can deposit cholesterol in artery walls, contributing to atherosclerosis. The LDL-C measurement reflects the cholesterol content carried by these particles."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "LDL cholesterol is a major risk factor for cardiovascular disease. Elevated LDL promotes plaque buildup in arteries, increasing risk of heart attack and stroke. Lower LDL levels are associated with reduced cardiovascular events. Optimal LDL levels help maintain healthy arteries and reduce long-term cardiovascular risk."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "Lower LDL cholesterol through dietary changes: reduce saturated fats, eliminate trans fats, and increase soluble fiber intake. Regular aerobic exercise, weight management, and avoiding smoking all help. Plant sterols, omega-3 fatty acids, and maintaining healthy body weight support optimal levels. If lifestyle changes are insufficient, statins or other medications may be recommended by your healthcare provider."
+            }
+        ]
+    },
+    {
+        "id": "platelet-1",
+        "title": "Platelet Count (PLT)",
+        "unit": "k/uL",
+        "status": "optimal",
+        "category": "Blood health",
+        "data": [
+            {"date": "Aug 2025", "value": 340},
+            {"date": "Sep 2025", "value": 320},
+            {"date": "Oct 2025", "value": 300},
+            {"date": "Nov 2025", "value": 280},
+            {"date": "Dec 2025", "value": 260},
+            {"date": "Jan 2026", "value": 275},
+            {"date": "Feb 2026", "value": 285}
+        ],
+        "ranges": {"min": 100, "optimalMin": 150, "optimalMax": 250, "normalMin": 150, "normalMax": 450, "max": 500},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "Platelets (thrombocytes) are small cell fragments produced in bone marrow that circulate in blood and play a crucial role in blood clotting. They're derived from megakaryocytes and have a lifespan of about 7-10 days. Platelets contain granules with clotting factors and growth factors. The platelet count reflects bone marrow production and peripheral consumption or destruction."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "Platelet count is essential for assessing bleeding and clotting risk. Low counts (thrombocytopenia) can cause excessive bleeding, while high counts (thrombocytosis) may increase clot formation risk. Normal platelet function ensures proper wound healing and prevents spontaneous bleeding. Abnormal counts can indicate bone marrow disorders, immune conditions, or medication effects."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "For low platelets, address underlying causes such as nutritional deficiencies (vitamin B12, folate, iron), medication effects, or immune disorders. Avoid alcohol and medications that impair platelet function. For high platelets, stay hydrated, manage inflammation, and follow medical guidance. Persistent abnormalities require evaluation by a healthcare provider to determine the underlying cause and appropriate treatment."
+            }
+        ]
+    },
+    {
+        "id": "wbc-2",
+        "title": "White Blood Cells (WBC)",
+        "unit": "k/uL",
+        "status": "missing",
+        "category": "Blood health",
+        "data": [
+            {"date": "Aug 2025", "value": 10.8},
+            {"date": "Sep 2025", "value": 9.9},
+            {"date": "Oct 2025", "value": 8.7},
+            {"date": "Nov 2025", "value": 7.8},
+            {"date": "Dec 2025", "value": 6.9},
+            {"date": "Jan 2026", "value": 6.0},
+            {"date": "Feb 2026", "value": 5.2}
+        ],
+        "ranges": {"min": 3, "optimalMin": 4.5, "optimalMax": 7.5, "normalMin": 4, "normalMax": 10, "max": 12},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "White blood cells (leukocytes) are immune cells that circulate in blood and patrol tissues. They include several lineages such as neutrophils, lymphocytes, monocytes, eosinophils, and basophils, each with specialized roles. WBCs arise from hematopoietic stem cells in the bone marrow and are regulated by cytokines and growth factors. The WBC count reflects immune cell production, distribution, and turnover biology."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "The white blood cell count is important because it helps detect infection, inflammation, and bone marrow or immune disorders. High WBC can occur with bacterial infection, stress responses, or certain hematologic diseases, while low WBC can increase infection risk. It provides a broad snapshot of immune system activity. Trends over time can be more informative than a single value."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "Optimize white blood cell counts by addressing the underlying driver: infection control, inflammation management, and avoiding smoking. Support immune resilience with adequate sleep, balanced nutrition (including sufficient protein and micronutrients), and regular moderate exercise. If WBC is low, avoid unnecessary exposure to infections and review medications that can suppress marrow with a clinician. Persistent abnormalities require medical evaluation rather than supplements alone."
+            }
+        ]
+    },
+    {
+        "id": "ldl-2",
+        "title": "LDL Cholesterol",
+        "unit": "mg/dL",
+        "status": "normal",
+        "category": "Heart",
+        "data": [
+            {"date": "Aug 2025", "value": 160},
+            {"date": "Sep 2025", "value": 150},
+            {"date": "Oct 2025", "value": 138},
+            {"date": "Nov 2025", "value": 125},
+            {"date": "Dec 2025", "value": 132},
+            {"date": "Jan 2026", "value": 136},
+            {"date": "Feb 2026", "value": 142}
+        ],
+        "ranges": {"min": 50, "optimalMin": 70, "optimalMax": 100, "normalMin": 70, "normalMax": 160, "max": 200},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "LDL cholesterol (low-density lipoprotein) is a particle that transports cholesterol and fats through the bloodstream to cells. It's produced by the liver and regulated by diet, genetics, and metabolic factors. LDL particles can deposit cholesterol in artery walls, contributing to atherosclerosis. The LDL-C measurement reflects the cholesterol content carried by these particles."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "LDL cholesterol is a major risk factor for cardiovascular disease. Elevated LDL promotes plaque buildup in arteries, increasing risk of heart attack and stroke. Lower LDL levels are associated with reduced cardiovascular events. Optimal LDL levels help maintain healthy arteries and reduce long-term cardiovascular risk."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "Lower LDL cholesterol through dietary changes: reduce saturated fats, eliminate trans fats, and increase soluble fiber intake. Regular aerobic exercise, weight management, and avoiding smoking all help. Plant sterols, omega-3 fatty acids, and maintaining healthy body weight support optimal levels. If lifestyle changes are insufficient, statins or other medications may be recommended by your healthcare provider."
+            }
+        ]
+    },
+    {
+        "id": "platelet-2",
+        "title": "Platelet Count (PLT)",
+        "unit": "k/uL",
+        "status": "high",
+        "category": "Blood health",
+        "data": [
+            {"date": "Aug 2025", "value": 330},
+            {"date": "Sep 2025", "value": 310},
+            {"date": "Oct 2025", "value": 295},
+            {"date": "Nov 2025", "value": 270},
+            {"date": "Dec 2025", "value": 255},
+            {"date": "Jan 2026", "value": 268},
+            {"date": "Feb 2026", "value": 285}
+        ],
+        "ranges": {"min": 100, "optimalMin": 150, "optimalMax": 250, "normalMin": 150, "normalMax": 450, "max": 500},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "Platelets (thrombocytes) are small cell fragments produced in bone marrow that circulate in blood and play a crucial role in blood clotting. They're derived from megakaryocytes and have a lifespan of about 7-10 days. Platelets contain granules with clotting factors and growth factors. The platelet count reflects bone marrow production and peripheral consumption or destruction."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "Platelet count is essential for assessing bleeding and clotting risk. Low counts (thrombocytopenia) can cause excessive bleeding, while high counts (thrombocytosis) may increase clot formation risk. Normal platelet function ensures proper wound healing and prevents spontaneous bleeding. Abnormal counts can indicate bone marrow disorders, immune conditions, or medication effects."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "For low platelets, address underlying causes such as nutritional deficiencies (vitamin B12, folate, iron), medication effects, or immune disorders. Avoid alcohol and medications that impair platelet function. For high platelets, stay hydrated, manage inflammation, and follow medical guidance. Persistent abnormalities require evaluation by a healthcare provider to determine the underlying cause and appropriate treatment."
+            }
+        ]
+    },
+    {
+        "id": "wbc-3",
+        "title": "White Blood Cells (WBC)",
+        "unit": "k/uL",
+        "status": "optimal",
+        "category": "Blood health",
+        "data": [
+            {"date": "Aug 2025", "value": 11.0},
+            {"date": "Sep 2025", "value": 10.2},
+            {"date": "Oct 2025", "value": 9.0},
+            {"date": "Nov 2025", "value": 7.9},
+            {"date": "Dec 2025", "value": 6.8},
+            {"date": "Jan 2026", "value": 6.1},
+            {"date": "Feb 2026", "value": 5.2}
+        ],
+        "ranges": {"min": 3, "optimalMin": 4.5, "optimalMax": 7.5, "normalMin": 4, "normalMax": 10, "max": 12},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "White blood cells (leukocytes) are immune cells that circulate in blood and patrol tissues. They include several lineages such as neutrophils, lymphocytes, monocytes, eosinophils, and basophils, each with specialized roles. WBCs arise from hematopoietic stem cells in the bone marrow and are regulated by cytokines and growth factors. The WBC count reflects immune cell production, distribution, and turnover biology."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "The white blood cell count is important because it helps detect infection, inflammation, and bone marrow or immune disorders. High WBC can occur with bacterial infection, stress responses, or certain hematologic diseases, while low WBC can increase infection risk. It provides a broad snapshot of immune system activity. Trends over time can be more informative than a single value."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "Optimize white blood cell counts by addressing the underlying driver: infection control, inflammation management, and avoiding smoking. Support immune resilience with adequate sleep, balanced nutrition (including sufficient protein and micronutrients), and regular moderate exercise. If WBC is low, avoid unnecessary exposure to infections and review medications that can suppress marrow with a clinician. Persistent abnormalities require medical evaluation rather than supplements alone."
+            }
+        ]
+    },
+    {
+        "id": "ldl-3",
+        "title": "LDL Cholesterol",
+        "unit": "mg/dL",
+        "status": "normal",
+        "category": "Heart",
+        "data": [
+            {"date": "Aug 2025", "value": 170},
+            {"date": "Sep 2025", "value": 160},
+            {"date": "Oct 2025", "value": 145},
+            {"date": "Nov 2025", "value": 132},
+            {"date": "Dec 2025", "value": 140},
+            {"date": "Jan 2026", "value": 138},
+            {"date": "Feb 2026", "value": 142}
+        ],
+        "ranges": {"min": 50, "optimalMin": 70, "optimalMax": 100, "normalMin": 70, "normalMax": 160, "max": 200},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "LDL cholesterol (low-density lipoprotein) is a particle that transports cholesterol and fats through the bloodstream to cells. It's produced by the liver and regulated by diet, genetics, and metabolic factors. LDL particles can deposit cholesterol in artery walls, contributing to atherosclerosis. The LDL-C measurement reflects the cholesterol content carried by these particles."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "LDL cholesterol is a major risk factor for cardiovascular disease. Elevated LDL promotes plaque buildup in arteries, increasing risk of heart attack and stroke. Lower LDL levels are associated with reduced cardiovascular events. Optimal LDL levels help maintain healthy arteries and reduce long-term cardiovascular risk."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "Lower LDL cholesterol through dietary changes: reduce saturated fats, eliminate trans fats, and increase soluble fiber intake. Regular aerobic exercise, weight management, and avoiding smoking all help. Plant sterols, omega-3 fatty acids, and maintaining healthy body weight support optimal levels. If lifestyle changes are insufficient, statins or other medications may be recommended by your healthcare provider."
+            }
+        ]
+    },
+    {
+        "id": "platelet-3",
+        "title": "Platelet Count (PLT)",
+        "unit": "k/uL",
+        "status": "high",
+        "category": "Blood health",
+        "data": [
+            {"date": "Aug 2025", "value": 350},
+            {"date": "Sep 2025", "value": 330},
+            {"date": "Oct 2025", "value": 310},
+            {"date": "Nov 2025", "value": 290},
+            {"date": "Dec 2025", "value": 270},
+            {"date": "Jan 2026", "value": 280},
+            {"date": "Feb 2026", "value": 285}
+        ],
+        "ranges": {"min": 100, "optimalMin": 150, "optimalMax": 250, "normalMin": 150, "normalMax": 450, "max": 500},
+        "content": [
+            {
+                "question": "What it is?",
+                "answer": "Platelets (thrombocytes) are small cell fragments produced in bone marrow that circulate in blood and play a crucial role in blood clotting. They're derived from megakaryocytes and have a lifespan of about 7-10 days. Platelets contain granules with clotting factors and growth factors. The platelet count reflects bone marrow production and peripheral consumption or destruction."
+            },
+            {
+                "question": "Why is it important?",
+                "answer": "Platelet count is essential for assessing bleeding and clotting risk. Low counts (thrombocytopenia) can cause excessive bleeding, while high counts (thrombocytosis) may increase clot formation risk. Normal platelet function ensures proper wound healing and prevents spontaneous bleeding. Abnormal counts can indicate bone marrow disorders, immune conditions, or medication effects."
+            },
+            {
+                "question": "How to improve it?",
+                "answer": "For low platelets, address underlying causes such as nutritional deficiencies (vitamin B12, folate, iron), medication effects, or immune disorders. Avoid alcohol and medications that impair platelet function. For high platelets, stay hydrated, manage inflammation, and follow medical guidance. Persistent abnormalities require evaluation by a healthcare provider to determine the underlying cause and appropriate treatment."
+            }
+        ]
+    },
+    {
+        "id": "crp-1",
+        "title": "C-Reactive Protein (CRP)",
+        "unit": "mg/L",
+        "status": "optimal",
+        "category": "Inflammation",
+        "data": [
+            {"date": "Aug 2025", "value": 0.8},
+            {"date": "Sep 2025", "value": 0.7},
+            {"date": "Oct 2025", "value": 0.6},
+            {"date": "Nov 2025", "value": 0.5},
+            {"date": "Dec 2025", "value": 0.6},
+            {"date": "Jan 2026", "value": 0.7},
+            {"date": "Feb 2026", "value": 0.8}
+        ],
+        "ranges": {"min": 0, "optimalMin": 0, "optimalMax": 1, "normalMin": 0, "normalMax": 3, "max": 10},
+        "content": [
+            {"question": "What it is?", "answer": "C-Reactive Protein is a marker of inflammation in the body produced by the liver."},
+            {"question": "Why is it important?", "answer": "Elevated CRP indicates inflammation and increased cardiovascular risk."},
+            {"question": "How to improve it?", "answer": "Reduce inflammation through diet, exercise, stress management, and adequate sleep."}
+        ]
+    },
+    {
+        "id": "alt-1",
+        "title": "ALT (Alanine Aminotransferase)",
+        "unit": "U/L",
+        "status": "normal",
+        "category": "Liver Health",
+        "data": [
+            {"date": "Aug 2025", "value": 35},
+            {"date": "Sep 2025", "value": 33},
+            {"date": "Oct 2025", "value": 30},
+            {"date": "Nov 2025", "value": 28},
+            {"date": "Dec 2025", "value": 30},
+            {"date": "Jan 2026", "value": 32},
+            {"date": "Feb 2026", "value": 34}
+        ],
+        "ranges": {"min": 0, "optimalMin": 10, "optimalMax": 25, "normalMin": 10, "normalMax": 40, "max": 100},
+        "content": [
+            {"question": "What it is?", "answer": "ALT is an enzyme found primarily in the liver that helps metabolize proteins."},
+            {"question": "Why is it important?", "answer": "Elevated ALT indicates liver damage or inflammation."},
+            {"question": "How to improve it?", "answer": "Limit alcohol, maintain healthy weight, and avoid hepatotoxic medications."}
+        ]
+    },
+    {
+        "id": "creatinine-1",
+        "title": "Creatinine",
+        "unit": "mg/dL",
+        "status": "high",
+        "category": "Kidney Health",
+        "data": [
+            {"date": "Aug 2025", "value": 1.4},
+            {"date": "Sep 2025", "value": 1.35},
+            {"date": "Oct 2025", "value": 1.3},
+            {"date": "Nov 2025", "value": 1.25},
+            {"date": "Dec 2025", "value": 1.3},
+            {"date": "Jan 2026", "value": 1.32},
+            {"date": "Feb 2026", "value": 1.35}
+        ],
+        "ranges": {"min": 0.5, "optimalMin": 0.7, "optimalMax": 1.0, "normalMin": 0.6, "normalMax": 1.2, "max": 2.0},
+        "content": [
+            {"question": "What it is?", "answer": "Creatinine is a waste product from muscle metabolism filtered by the kidneys."},
+            {"question": "Why is it important?", "answer": "Elevated creatinine indicates reduced kidney function."},
+            {"question": "How to improve it?", "answer": "Stay hydrated, reduce protein intake, and manage blood pressure."}
+        ]
+    },
+    {
+        "id": "testosterone-1",
+        "title": "Testosterone",
+        "unit": "ng/dL",
+        "status": "missing",
+        "category": "Hormonal Health",
+        "data": [
+            {"date": "Aug 2025", "value": 450},
+            {"date": "Sep 2025", "value": 460},
+            {"date": "Oct 2025", "value": 470},
+            {"date": "Nov 2025", "value": 480},
+            {"date": "Dec 2025", "value": 490},
+            {"date": "Jan 2026", "value": 500},
+            {"date": "Feb 2026", "value": 510}
+        ],
+        "ranges": {"min": 200, "optimalMin": 400, "optimalMax": 800, "normalMin": 300, "normalMax": 1000, "max": 1200},
+        "content": [
+            {"question": "What it is?", "answer": "Testosterone is a primary male sex hormone important for muscle, bone, and reproductive health."},
+            {"question": "Why is it important?", "answer": "Optimal testosterone supports energy, mood, muscle mass, and sexual function."},
+            {"question": "How to improve it?", "answer": "Exercise regularly, maintain healthy weight, get adequate sleep, and manage stress."}
+        ]
+    },
+    {
+        "id": "vitd-1",
+        "title": "Vitamin D",
+        "unit": "ng/mL",
+        "status": "optimal",
+        "category": "Nutrients",
+        "data": [
+            {"date": "Aug 2025", "value": 45},
+            {"date": "Sep 2025", "value": 48},
+            {"date": "Oct 2025", "value": 50},
+            {"date": "Nov 2025", "value": 52},
+            {"date": "Dec 2025", "value": 50},
+            {"date": "Jan 2026", "value": 48},
+            {"date": "Feb 2026", "value": 46}
+        ],
+        "ranges": {"min": 10, "optimalMin": 40, "optimalMax": 60, "normalMin": 30, "normalMax": 100, "max": 150},
+        "content": [
+            {"question": "What it is?", "answer": "Vitamin D is a fat-soluble vitamin essential for bone health and immune function."},
+            {"question": "Why is it important?", "answer": "Adequate vitamin D supports bone density, immune health, and mood regulation."},
+            {"question": "How to improve it?", "answer": "Get sun exposure, eat vitamin D-rich foods, or take supplements as recommended."}
+        ]
+    },
+    {
+        "id": "psa-1",
+        "title": "PSA (Prostate-Specific Antigen)",
+        "unit": "ng/mL",
+        "status": "normal",
+        "category": "Cancer Screening",
+        "data": [
+            {"date": "Aug 2025", "value": 2.8},
+            {"date": "Sep 2025", "value": 2.7},
+            {"date": "Oct 2025", "value": 2.6},
+            {"date": "Nov 2025", "value": 2.5},
+            {"date": "Dec 2025", "value": 2.6},
+            {"date": "Jan 2026", "value": 2.7},
+            {"date": "Feb 2026", "value": 2.8}
+        ],
+        "ranges": {"min": 0, "optimalMin": 0, "optimalMax": 2.5, "normalMin": 0, "normalMax": 4, "max": 10},
+        "content": [
+            {"question": "What it is?", "answer": "PSA is a protein produced by the prostate gland used for cancer screening."},
+            {"question": "Why is it important?", "answer": "Elevated PSA may indicate prostate cancer or other prostate conditions."},
+            {"question": "How to improve it?", "answer": "Regular screening, healthy diet, and lifestyle modifications can support prostate health."}
+        ]
+    },
+    {
+        "id": "crp-2",
+        "title": "C-Reactive Protein (CRP)",
+        "unit": "mg/L",
+        "status": "high",
+        "category": "Inflammation",
+        "data": [
+            {"date": "Aug 2025", "value": 5.2},
+            {"date": "Sep 2025", "value": 4.8},
+            {"date": "Oct 2025", "value": 4.5},
+            {"date": "Nov 2025", "value": 4.2},
+            {"date": "Dec 2025", "value": 4.0},
+            {"date": "Jan 2026", "value": 3.8},
+            {"date": "Feb 2026", "value": 3.5}
+        ],
+        "ranges": {"min": 0, "optimalMin": 0, "optimalMax": 1, "normalMin": 0, "normalMax": 3, "max": 10},
+        "content": [
+            {"question": "What it is?", "answer": "C-Reactive Protein is a marker of inflammation in the body produced by the liver."},
+            {"question": "Why is it important?", "answer": "Elevated CRP indicates inflammation and increased cardiovascular risk."},
+            {"question": "How to improve it?", "answer": "Reduce inflammation through diet, exercise, stress management, and adequate sleep."}
+        ]
+    },
+    {
+        "id": "ast-1",
+        "title": "AST (Aspartate Aminotransferase)",
+        "unit": "U/L",
+        "status": "missing",
+        "category": "Liver Health",
+        "data": [
+            {"date": "Aug 2025", "value": 28},
+            {"date": "Sep 2025", "value": 27},
+            {"date": "Oct 2025", "value": 26},
+            {"date": "Nov 2025", "value": 25},
+            {"date": "Dec 2025", "value": 26},
+            {"date": "Jan 2026", "value": 27},
+            {"date": "Feb 2026", "value": 28}
+        ],
+        "ranges": {"min": 0, "optimalMin": 10, "optimalMax": 25, "normalMin": 10, "normalMax": 40, "max": 100},
+        "content": [
+            {"question": "What it is?", "answer": "AST is an enzyme found in the liver and other tissues."},
+            {"question": "Why is it important?", "answer": "Elevated AST can indicate liver or heart damage."},
+            {"question": "How to improve it?", "answer": "Protect liver health through diet, limit alcohol, and avoid toxins."}
+        ]
+    },
+    {
+        "id": "bun-1",
+        "title": "BUN (Blood Urea Nitrogen)",
+        "unit": "mg/dL",
+        "status": "optimal",
+        "category": "Kidney Health",
+        "data": [
+            {"date": "Aug 2025", "value": 14},
+            {"date": "Sep 2025", "value": 13},
+            {"date": "Oct 2025", "value": 12},
+            {"date": "Nov 2025", "value": 13},
+            {"date": "Dec 2025", "value": 14},
+            {"date": "Jan 2026", "value": 15},
+            {"date": "Feb 2026", "value": 14}
+        ],
+        "ranges": {"min": 5, "optimalMin": 10, "optimalMax": 20, "normalMin": 7, "normalMax": 25, "max": 50},
+        "content": [
+            {"question": "What it is?", "answer": "BUN measures the amount of nitrogen in blood from urea, a waste product."},
+            {"question": "Why is it important?", "answer": "BUN levels indicate kidney function and hydration status."},
+            {"question": "How to improve it?", "answer": "Stay hydrated and maintain kidney health through proper diet."}
+        ]
+    },
+    {
+        "id": "cortisol-1",
+        "title": "Cortisol",
+        "unit": "μg/dL",
+        "status": "high",
+        "category": "Hormonal Health",
+        "data": [
+            {"date": "Aug 2025", "value": 22},
+            {"date": "Sep 2025", "value": 21},
+            {"date": "Oct 2025", "value": 20},
+            {"date": "Nov 2025", "value": 19},
+            {"date": "Dec 2025", "value": 18},
+            {"date": "Jan 2026", "value": 17},
+            {"date": "Feb 2026", "value": 16}
+        ],
+        "ranges": {"min": 3, "optimalMin": 6, "optimalMax": 15, "normalMin": 5, "normalMax": 23, "max": 30},
+        "content": [
+            {"question": "What it is?", "answer": "Cortisol is a stress hormone produced by the adrenal glands."},
+            {"question": "Why is it important?", "answer": "Chronic high cortisol can lead to weight gain, anxiety, and immune suppression."},
+            {"question": "How to improve it?", "answer": "Manage stress through meditation, exercise, and adequate sleep."}
+        ]
+    },
+    {
+        "id": "b12-1",
+        "title": "Vitamin B12",
+        "unit": "pg/mL",
+        "status": "normal",
+        "category": "Nutrients",
+        "data": [
+            {"date": "Aug 2025", "value": 450},
+            {"date": "Sep 2025", "value": 460},
+            {"date": "Oct 2025", "value": 470},
+            {"date": "Nov 2025", "value": 480},
+            {"date": "Dec 2025", "value": 490},
+            {"date": "Jan 2026", "value": 500},
+            {"date": "Feb 2026", "value": 510}
+        ],
+        "ranges": {"min": 100, "optimalMin": 400, "optimalMax": 900, "normalMin": 200, "normalMax": 1100, "max": 1500},
+        "content": [
+            {"question": "What it is?", "answer": "Vitamin B12 is essential for nerve function, DNA synthesis, and red blood cell formation."},
+            {"question": "Why is it important?", "answer": "B12 deficiency can cause anemia, fatigue, and neurological problems."},
+            {"question": "How to improve it?", "answer": "Eat B12-rich foods like meat, fish, eggs, or take supplements if needed."}
+        ]
+    },
+    {
+        "id": "cea-1",
+        "title": "CEA (Carcinoembryonic Antigen)",
+        "unit": "ng/mL",
+        "status": "missing",
+        "category": "Cancer Screening",
+        "data": [
+            {"date": "Aug 2025", "value": 2.2},
+            {"date": "Sep 2025", "value": 2.1},
+            {"date": "Oct 2025", "value": 2.0},
+            {"date": "Nov 2025", "value": 1.9},
+            {"date": "Dec 2025", "value": 2.0},
+            {"date": "Jan 2026", "value": 2.1},
+            {"date": "Feb 2026", "value": 2.2}
+        ],
+        "ranges": {"min": 0, "optimalMin": 0, "optimalMax": 2.5, "normalMin": 0, "normalMax": 5, "max": 20},
+        "content": [
+            {"question": "What it is?", "answer": "CEA is a protein that may be elevated in certain cancers, especially colorectal cancer."},
+            {"question": "Why is it important?", "answer": "CEA is used to monitor cancer treatment and detect recurrence."},
+            {"question": "How to improve it?", "answer": "Regular screening and healthy lifestyle reduce cancer risk."}
+        ]
+    }
+]

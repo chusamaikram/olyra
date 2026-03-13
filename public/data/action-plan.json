@@ -1,0 +1,102 @@
+[
+  {
+    "id": "increase-soluble-fiber-intake",
+    "title": "Increase Soluble Fiber Intake",
+    "category": "Diet",
+    "description": "Add 10-15g daily soluble fiber from oats, legumes, and psyllium to help reduce LDL cholesterol naturally. Target total fiber intake of 35-40g per day.",
+    "content": [
+      {
+        "question": "What it is?",
+        "answer": "This action focuses on increasing daily intake of soluble fiber from foods such as oats, legumes, fruits, and psyllium husk. Soluble fiber forms a gel-like substance in the gut that slows digestion and helps regulate cholesterol and glucose absorption. The goal is to add 10–15g of soluble fiber daily, contributing to a total fiber intake of 35–40g per day."
+      },
+      {
+        "question": "Why is it helpful?",
+        "answer": "Soluble fiber helps reduce LDL (“bad”) cholesterol by binding bile acids and lowering cholesterol absorption. It also improves blood sugar control by slowing carbohydrate absorption, which can support lower HbA1c levels. Increased fiber intake promotes gut health, reduces inflammation, and supports long-term cardiometabolic health."
+      },
+      {
+        "question": "Why I got this suggestion?",
+        "answer": "Suggested when LDL cholesterol, total cholesterol, or HbA1c levels are elevated, indicating increased cardiovascular or metabolic risk."
+      }
+    ]
+  },
+  {
+    "id": "omega-3-supplementation",
+    "title": "Omega-3 Supplementation",
+    "category": "Supplements",
+    "description": "Consider 2-3g combined EPA/DHA daily from high-quality fish oil or algae-based supplement to support cardiovascular health and reduce triglycerides.",
+    "content": [
+      {
+        "question": "What it is?",
+        "answer": "This action recommends supplementing with omega-3 fatty acids, specifically EPA and DHA, from high-quality fish oil or algae-based supplements. A daily intake of 2–3g EPA/DHA is commonly used to support heart and metabolic health."
+      },
+      {
+        "question": "Why is it helpful?",
+        "answer": "Omega-3 fatty acids help lower triglyceride levels, reduce systemic inflammation, and support vascular health. They may also improve insulin sensitivity and reduce inflammatory markers such as hs-CRP. Omega-3s play a protective role in reducing cardiovascular disease risk."
+      },
+      {
+        "question": "Why I got this suggestion?",
+        "answer": "Suggested when triglycerides, inflammatory markers, or cardiovascular risk indicators are elevated."
+      }
+    ]
+  },
+  {
+    "id": "moderate-aerobic-exercise",
+    "title": "Moderate Aerobic Exercise",
+    "category": "Exercise",
+    "description": "Engage in 150 minutes weekly of moderate-intensity aerobic activity. Walking, cycling, can improve insulin sensitivity and support healthy glucose metabolism.",
+    "content": [
+      {
+        "question": "What it is?",
+        "answer": "This action recommends engaging in 150 minutes per week of moderate-intensity aerobic exercise, such as brisk walking, cycling, swimming, or dancing. Moderate intensity means you can talk but not sing during the activity. This can be broken down into 30 minutes, 5 days per week, or any combination that fits your schedule."
+      },
+      {
+        "question": "Why is it helpful?",
+        "answer": "Regular aerobic exercise improves insulin sensitivity, helping cells use glucose more effectively and lowering blood sugar levels. It supports healthy glucose metabolism, aids in weight management, reduces cardiovascular risk, and lowers blood pressure. Exercise also reduces inflammation, improves lipid profiles, and enhances overall metabolic health."
+      },
+      {
+        "question": "Why I got this suggestion?",
+        "answer": "Suggested when HbA1c, fasting glucose, insulin resistance markers, or cardiovascular risk factors are elevated. Physical inactivity is a key modifiable risk factor for metabolic and cardiovascular disease."
+      }
+    ]
+  },
+  {
+    "id": "consider-berberine-or-metformin-discussion",
+    "title": "Consider Berberine or Metformin Discussion",
+    "category": "Medication",
+    "description": "Given prediabetic HbA1C, discuss with your physician whether berberine (1500mg daily) or metformin may be appropriate for glucose management.",
+    "content": [
+      {
+        "question": "What it is?",
+        "answer": "This action involves discussing pharmaceutical or natural interventions with your physician to manage elevated blood glucose levels. Berberine is a natural compound (typically 1500mg daily) that has been shown to improve glucose metabolism, while metformin is a prescription medication commonly used for prediabetes and type 2 diabetes management."
+      },
+      {
+        "question": "Why is it helpful?",
+        "answer": "Both berberine and metformin work by improving insulin sensitivity and reducing glucose production in the liver. They help lower fasting glucose and HbA1c levels, reducing the risk of progression from prediabetes to type 2 diabetes. These interventions can be particularly effective when lifestyle modifications alone are insufficient to achieve target glucose levels."
+      },
+      {
+        "question": "Why I got this suggestion?",
+        "answer": "Suggested when HbA1c levels indicate prediabetes (5.7-6.4%) or when fasting glucose levels are consistently elevated, indicating impaired glucose metabolism that may benefit from pharmacological support."
+      }
+    ]
+  },
+  {
+    "id": "reduce-refined-carbohydrate-intake",
+    "title": "Reduce Refined Carbohydrate Intake",
+    "category": "Supplements",
+    "description": "Limit processed grains and added sugars. Focus on whole foods with low glycemic index to stabilize blood glucose and improve HbA1C levels.",
+    "content": [
+      {
+        "question": "What it is?",
+        "answer": "This action focuses on reducing consumption of processed grains (white bread, white rice, pastries) and added sugars while emphasizing whole, unprocessed foods with a low glycemic index. Low glycemic foods release glucose more slowly into the bloodstream, preventing rapid spikes in blood sugar levels."
+      },
+      {
+        "question": "Why is it helpful?",
+        "answer": "Reducing refined carbohydrates helps stabilize blood glucose levels throughout the day, reducing insulin demand and improving insulin sensitivity. This dietary approach can lower HbA1c levels, reduce inflammation, support weight management, and decrease cardiovascular risk. Whole foods also provide more nutrients, fiber, and sustained energy compared to refined options."
+      },
+      {
+        "question": "Why I got this suggestion?",
+        "answer": "Suggested when HbA1c, fasting glucose, or insulin levels are elevated, indicating poor glucose control or insulin resistance that can be improved through dietary carbohydrate quality management."
+      }
+    ]
+  }
+]

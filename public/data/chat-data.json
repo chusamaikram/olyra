@@ -1,0 +1,62 @@
+{
+  "chatHistory": [
+    {
+      "id": "chat-1",
+      "title": "Lorem Ipsum is simply dummy text",
+      "lastMessage": "What are my latest lab results?",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "chat-2", 
+      "title": "Lorem Ipsum is simply dummy text",
+      "lastMessage": "Can you explain my cholesterol levels?",
+      "timestamp": "2024-01-14T15:45:00Z"
+    },
+    {
+      "id": "chat-3",
+      "title": "Lorem Ipsum is simply dummy text", 
+      "lastMessage": "What should I do about my high blood pressure?",
+      "timestamp": "2024-01-13T09:20:00Z"
+    },
+    {
+      "id": "chat-4",
+      "title": "Lorem Ipsum is simply dummy text",
+      "lastMessage": "Diet recommendations for diabetes",
+      "timestamp": "2024-01-12T14:10:00Z"
+    },
+    {
+      "id": "chat-5",
+      "title": "Lorem Ipsum is simply dummy text",
+      "lastMessage": "Exercise plan for heart health",
+      "timestamp": "2024-01-11T11:30:00Z"
+    }
+  ],
+  "messages": {
+    "chat-1": [
+      {
+        "id": "msg-1",
+        "message": "Hi! I'd like to know about my latest lab results. Can you help me understand them?",
+        "isUser": true,
+        "timestamp": "2024-01-15T10:30:00Z"
+      },
+      {
+        "id": "msg-2", 
+        "message": "Internal Lab Talk",
+        "isUser": false,
+        "timestamp": "2024-01-15T10:30:30Z"
+      },
+      {
+        "id": "msg-3",
+        "message": "https://www.labcorp.com",
+        "isUser": false,
+        "timestamp": "2024-01-15T10:31:00Z"
+      },
+      {
+        "id": "msg-4",
+        "message": "Message",
+        "isUser": true,
+        "timestamp": "2024-01-15T10:32:00Z"
+      }
+    ]
+  }
+}
