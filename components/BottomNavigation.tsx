@@ -56,7 +56,7 @@ const BottomNavigation = () => {
               <li key={index} className=' w-full'>
                 <Link href={link.href} className={`flex flex-col items-center gap-1.25 px-3.5 py-3 w-full ${isActive ? ' text-[#BE735B] ' : 'text-[#9DB2CE]'}`}>
                   <span >
-                    {<link.icon pathname={pathname} />}
+                    {<link.icon isActive={isActive} />}
                   </span>
                   <span className={`text-base/6 `}>{link.name}</span>
                 </Link>
@@ -79,7 +79,7 @@ const BottomNavigation = () => {
                       <li key={index} className=' w-full'>
                         <Link href={link.href} className={`flex flex-col items-center gap-1.25 px-3.5 py-3 w-full ${isActive ? ' text-[#BE735B] ' : 'text-[#9DB2CE]'}`}>
                           <span >
-                            {<link.icon pathname={pathname} />}
+                            {<link.icon isActive={isActive} />}
                           </span>
                           <span className={`text-base/6 `}>{link.name}</span>
                         </Link>
