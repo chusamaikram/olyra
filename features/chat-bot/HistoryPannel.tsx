@@ -115,20 +115,22 @@ const HistoryPannel = ({ handleNewChat, chatData, selectedChatId, setSelectedCha
                                 <EllipsisVertical size={16} color='#484A54' />
                                 {chatMenu === chat.id && (
                                     <div ref={menuRef} className='absolute right-0 top-full shadow-lg rounded-xl p-2 z-10 w-[178px] border border-[#E9EAEB] bg-white'>
-                                        <button
+                                        <span
+                                            role='button'
                                             onClick={() => handleRenameStart(chat.id, chat.title)}
                                             className='px-2.5 py-2 rounded-lg flex items-center gap-2 w-full hover:bg-gray-50 transition-colors'
                                         >
                                             <SquarePen size={14} color='#414651' />
                                             <span className='text-sm/5 font-medium text-[#717680]'>Rename Chat</span>
-                                        </button>
-                                        <button
+                                        </span>
+                                        <span
+                                            role='button'
                                             onClick={() => handleDelete(chat.id)}
                                             className='px-2.5 py-2 rounded-lg flex items-center gap-2 w-full hover:bg-red-50 transition-colors'
                                         >
                                             <Trash2 size={16} color='#414651' />
                                             <span className='text-sm/5 font-medium text-[#717680]'>Delete Chat</span>
-                                        </button>
+                                        </span>
                                     </div>
                                 )}
                             </button>
